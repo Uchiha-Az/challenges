@@ -1,3 +1,5 @@
+#decode this cipher: B~e6awe6byy6sweo6pyd6oyc6~c~)6Xsnb6b{s61zz6{w}s6cxtdsw}wtzs6uf~sd
+
 def xor_operation(char, key):
     return chr( ord(char) ^ key )
 
