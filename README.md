@@ -1,2 +1,2 @@
 # challenges
-Welcome, I made these challenges. Hope you enjoy it :)
+These challenges are made for the University of Jeddah Software Engineering Club booth 
